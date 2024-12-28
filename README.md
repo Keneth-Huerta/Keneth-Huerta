@@ -1,8 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Keneth Huerta 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here's a bit about me:
 
-- 🔭 I’m currently working on some proyects about my school and some scholarships
-- 🌱 I’m currently learning english, french and I´m native in spanish 
-- 📫 How to reach me: kenethissac@gmail.com 
-- 😄 Pronouns: ValgelcimCmh
+🔭 Currently Working On:
+I'm developing projects related to my school and exploring opportunities for scholarships.
+
+🌱 Currently Learning:
+I'm improving my skills in English and French, while being a native Spanish speaker.
+
+💻 Interests:
+I’m passionate about programming, software development, and building innovative solutions.
+
+📫 How to Reach Me:
+Feel free to email me at kenethissac@gmail.com.
+
+😄 Pronouns:
+He/Him
