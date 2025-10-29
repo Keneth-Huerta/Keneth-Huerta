@@ -90,6 +90,7 @@ Here are some of the projects I've developed, demonstrating my skills in differe
 | Project | Description | Technologies | Link |
 | :--- | :--- | :--- | :--- |
 | **Huellitas** | Comprehensive Android platform that connects pet owners with verified veterinary specialists in Mexico, combining professional services, social interaction, and complete animal care management | `Kotlin` `Java` `Firebase` `Android` `Google Maps` `Room` | [View Repo](https://github.com/Keneth-Huerta/Huellitas) |
+| **Mi Asistente** | Multifunctional Android app that integrates multiple productivity and personal management tools including: academic schedule management with AI-powered PDF processing, workout tracking system, security features (automatic screen lock, emergency alarm), and cloud storage integration | `Kotlin` `Jetpack Compose` `Firebase` `Room` `Gemini AI` `MVVM` | [View Repo](https://github.com/Keneth-Huerta/MiAsistente) |
 | **Gamificación Deportiva** | Sports gamification system designed to motivate and track sports activities through achievements, challenges, and competitions, allowing users to log their physical activities, earn points, level up, and compete with other users | `Java` `MySQL` `Swing` | [View Repo](https://github.com/Keneth-Huerta/GamificacionDeportiva) |
 
 > **Note:** I'm constantly working on new projects related to my studies at ESCOM and my professional development.
