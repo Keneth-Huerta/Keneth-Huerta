@@ -1,12 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    ¡Hola! Soy Keneth Huerta
+    Hi! I'm Keneth Huerta
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h3>
-    Desarrollador Frontend | Apasionado por la Creación de Interfaces Web Intuitivas y Dinámicas
+    Computer Systems Engineering Student - ESCOM IPN
   </h3>
+  <h4>
+    Full Stack Developer | Passionate About Technology and Innovation
+  </h4>
   <div align="center">
     <a href="https://www.linkedin.com/in/keneth-isaac-huerta-moreno-8285552b1/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -19,44 +22,151 @@
 
 ---
 
-### 👨‍💻 Sobre Mí
+### About Me
 
-Soy un desarrollador de software enfocado en el lado del cliente (Frontend). Me especializo en la construcción de experiencias de usuario atractivas y funcionales utilizando tecnologías web modernas. Disfruto convirtiendo ideas y diseños en código interactivo y responsivo.
+I'm a **Computer Systems Engineering** student at the **Escuela Superior de Cómputo (ESCOM)** of the **Instituto Politécnico Nacional (IPN)**. I'm passionate about software development, both frontend and backend, and I enjoy creating innovative technological solutions that solve real-world problems.
 
-- 🔭 Actualmente estoy trabajando en un **[Menciona tu proyecto actual, ej: portafolio personal interactivo]**.
-- 🌱 Mi enfoque de aprendizaje es **TypeScript** y el framework **React** para construir aplicaciones más robustas.
-- 💬 Háblame sobre diseño web, CSS, JavaScript y desarrollo de interfaces.
-- 🌎 Idiomas: **Español (Nativo)** | **Inglés (Intermedio)** | **Francés (Básico)**.
+My academic training at ESCOM has allowed me to develop strong skills in programming, data structures, algorithms, databases, and software architecture. I combine theoretical knowledge with constant practice through personal and academic projects.
+
+- **Education:** Computer Systems Engineering - ESCOM IPN
+- **Currently working on:** Web development projects and deepening my knowledge in data structures and algorithms
+- **Learning:** Frontend web development, Java frameworks, and software design patterns
+- **Interests:** Web development, software architecture, artificial intelligence, and distributed systems
+- **Ask me about:** JavaScript, Java, Python, C, PHP, web development, data structures and algorithms
+- **Languages:** Spanish (Native) | English (Intermediate) | French (Basic)
 
 ---
 
-### 🛠️ Mi Stack de Tecnologías
+### Technology Stack
 
-Este es el conjunto de herramientas y tecnologías que utilizo en mis proyectos:
-
+#### Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,linux&perline=4" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,php&perline=5" />
+  </a>
+</p>
+
+#### Web Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php&perline=4" />
+  </a>
+</p>
+
+#### Tools & Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,postgres&perline=6" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Mis Proyectos Destacados
+### Knowledge Areas
 
-Aquí hay algunos de los proyectos en los que he trabajado y que demuestran mis habilidades.
+As a Computer Systems Engineering student, I have experience and knowledge in:
 
-| Proyecto | Tecnologías Utilizadas | Enlace |
-| :--- | :--- | :--- |
-| **Login y Registro Moderno** | `HTML` `CSS` `JavaScript` | [Ver Repositorio](https://github.com/Keneth-Huerta/Login-y-Register-Modern-con-HTML-CSS-Y-JS) |
-| **Página con Tema Claro/Oscuro** | `HTML` `CSS` `JavaScript` | [Ver Repositorio](https://github.com/Keneth-Huerta/Web-con-temas-claro-y-oscuro-con-HTML-CSS-y-JS) |
-| **Reloj Digital Interactivo** | `HTML` `CSS` `JavaScript` | [Ver Repositorio](https://github.com/Keneth-Huerta/Reloj-Digital-con-HTML-CSS-Y-JS) |
+- **Programming:** Java, Python, C, JavaScript, PHP
+- **Web Development:** HTML, CSS, JavaScript, PHP
+- **Data Structures and Algorithms:** Implementation and complexity analysis
+- **Databases:** MySQL, PostgreSQL, relational design
+- **Operating Systems:** Linux, terminal commands, scripting
+- **Version Control:** Git and GitHub
+- **Methodologies:** OOP, programming paradigms, design patterns
+
+<!--
+### Featured Projects
+
+Here are some of the projects I've developed, demonstrating my skills in different areas:
+
+| Project | Description | Technologies | Link |
+| :--- | :--- | :--- | :--- |
+| **Modern Login & Register** | Authentication system with modern and responsive interface | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/Keneth-Huerta/Login-y-Register-Modern-con-HTML-CSS-Y-JS) |
+| **Light/Dark Theme** | Web application with dynamic theme implementation | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/Keneth-Huerta/Web-con-temas-claro-y-oscuro-con-HTML-CSS-y-JS) |
+| **Digital Clock** | Interactive clock with advanced functionalities | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/Keneth-Huerta/Reloj-Digital-con-HTML-CSS-Y-JS) |
+
+> **Note:** I'm constantly working on new projects related to my studies at ESCOM and my professional development.
+-->
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### Goals and Continuous Learning
+
+As an engineering student, I'm constantly learning and growing:
+
+- Deepening my knowledge of advanced **Data Structures and Algorithms**
+- Developing projects with **Spring Boot**
+- Exploring **microservices** and **distributed systems** architectures
+- Introduction to **Machine Learning** and **Data Science**
+- Applying **design patterns** in real projects
+- Improving my frontend web development skills
+
+---
+
+### Academic Background
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ESCOM-IPN-8B1538?style=for-the-badge&logo=google-scholar&logoColor=white" alt="ESCOM-IPN"/>
+  <img src="https://img.shields.io/badge/Engineering-Computer%20Systems-1E90FF?style=for-the-badge&logo=academia&logoColor=white" alt="Degree"/>
+</div>
+
+<br>
+
+#### Escuela Superior de Cómputo (ESCOM) - Instituto Politécnico Nacional (IPN)
+ESCOM IPN, Unidad Profesional Adolfo López Mateos, Av. Juan de Dios Bátiz, Nueva Industrial Vallejo, Gustavo A. Madero, 07320 Ciudad de México, CDMX  
+**Computer Systems Engineering**
+
+My training at ESCOM provides me with a solid foundation in:
+- Advanced programming and programming paradigms
+- Algorithm design and analysis
+- Software engineering and systems architecture
+- Databases and information systems
+- Computer networks and operating systems
+- Applied mathematics and numerical analysis
+
+#### Centro de Estudios Científicos y Tecnológicos No. 3 (CECyT 3) - IPN
+Manzana 027, 55118 Ecatepec de Morelos, México  
+**Technical Degree in Computer Science**
+
+Technical foundation that provided me with essential skills in:
+- Computer fundamentals and programming
+- Systems analysis and design
+- Database management
+- Networking basics
+- Software development lifecycle
+
+---
+
+### GitHub Statistics
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Keneth-Huerta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keneth-Huerta&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+
+---
+
+### Contact
+
+Interested in collaborating on a project or just want to connect? Feel free to reach out!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keneth%20Huerta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-isaac-huerta-moreno-8285552b1/)
+[![Email](https://img.shields.io/badge/Email-kenethissac@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenethissac@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Keneth--Huerta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keneth-Huerta)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Keneth-Huerta&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  
+  <br><br>
+  
+  **Made with passion for technology | ESCOM-IPN Student**
+  
+  <sub>If you like my projects, don't forget to give them a star</sub>
+  
+</div>
