@@ -32,7 +32,7 @@ My academic training at ESCOM has allowed me to develop strong skills in program
 - **Currently working on:** Web development projects and deepening my knowledge in data structures and algorithms
 - **Learning:** Frontend web development, Java frameworks, and software design patterns
 - **Interests:** Web development, software architecture, artificial intelligence, and distributed systems
-- **Ask me about:** JavaScript, Java, Python, C, PHP, web development, data structures and algorithms
+- **Ask me about:** JavaScript, Java, Python, C, PHP, Android development, web development, data structures and algorithms
 - **Languages:** Spanish (Native) | English (Intermediate) | French (Basic)
 
 ---
@@ -42,7 +42,7 @@ My academic training at ESCOM has allowed me to develop strong skills in program
 #### Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,php&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,javascript,php&perline=6" />
   </a>
 </p>
 
@@ -53,10 +53,17 @@ My academic training at ESCOM has allowed me to develop strong skills in program
   </a>
 </p>
 
+#### Mobile Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase&perline=4" />
+  </a>
+</p>
+
 #### Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,postgres&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,postgres,docker&perline=7" />
   </a>
 </p>
 
@@ -66,13 +73,15 @@ My academic training at ESCOM has allowed me to develop strong skills in program
 
 As a Computer Systems Engineering student, I have experience and knowledge in:
 
-- **Programming:** Java, Python, C, JavaScript, PHP
+- **Programming:** Java, Kotlin, Python, C, JavaScript, PHP
 - **Web Development:** HTML, CSS, JavaScript, PHP
+- **Mobile Development:** Android (Kotlin/Java), Firebase
 - **Data Structures and Algorithms:** Implementation and complexity analysis
-- **Databases:** MySQL, PostgreSQL, relational design
+- **Databases:** MySQL, PostgreSQL, Firebase Firestore, relational design
 - **Operating Systems:** Linux, terminal commands, scripting
 - **Version Control:** Git and GitHub
-- **Methodologies:** OOP, programming paradigms, design patterns
+- **Containerization:** Docker
+- **Methodologies:** OOP, programming paradigms, design patterns, MVVM architecture
 
 ### Featured Projects
 
@@ -149,7 +158,7 @@ Interested in collaborating on a project or just want to connect? Feel free to r
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keneth%20Huerta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-isaac-huerta-moreno-8285552b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keneth%20Huerta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-issac-huerta-galindo-313804323)
 [![Email](https://img.shields.io/badge/Email-kenethissac@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenethissac@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Keneth--Huerta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keneth-Huerta)
 
