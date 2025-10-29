@@ -74,19 +74,16 @@ As a Computer Systems Engineering student, I have experience and knowledge in:
 - **Version Control:** Git and GitHub
 - **Methodologies:** OOP, programming paradigms, design patterns
 
-<!--
 ### Featured Projects
 
 Here are some of the projects I've developed, demonstrating my skills in different areas:
 
 | Project | Description | Technologies | Link |
 | :--- | :--- | :--- | :--- |
-| **Modern Login & Register** | Authentication system with modern and responsive interface | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/Keneth-Huerta/Login-y-Register-Modern-con-HTML-CSS-Y-JS) |
-| **Light/Dark Theme** | Web application with dynamic theme implementation | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/Keneth-Huerta/Web-con-temas-claro-y-oscuro-con-HTML-CSS-y-JS) |
-| **Digital Clock** | Interactive clock with advanced functionalities | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/Keneth-Huerta/Reloj-Digital-con-HTML-CSS-Y-JS) |
+| **Huellitas** | Comprehensive Android platform that connects pet owners with verified veterinary specialists in Mexico, combining professional services, social interaction, and complete animal care management | `Kotlin` `Java` `Firebase` `Android` `Google Maps` `Room` | [View Repo](https://github.com/Keneth-Huerta/Huellitas) |
+| **Gamificación Deportiva** | Sports gamification system designed to motivate and track sports activities through achievements, challenges, and competitions, allowing users to log their physical activities, earn points, level up, and compete with other users | `Java` `MySQL` `Swing` | [View Repo](https://github.com/Keneth-Huerta/GamificacionDeportiva) |
 
 > **Note:** I'm constantly working on new projects related to my studies at ESCOM and my professional development.
--->
 
 ---
 
