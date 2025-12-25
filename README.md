@@ -63,7 +63,7 @@ My academic training at ESCOM has allowed me to develop strong skills in program
 #### Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,postgres,docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,mysql,postgres,docker&perline=8" />
   </a>
 </p>
 
@@ -73,15 +73,16 @@ My academic training at ESCOM has allowed me to develop strong skills in program
 
 As a Computer Systems Engineering student, I have experience and knowledge in:
 
-- **Programming:** Java, Kotlin, Python, C, JavaScript, PHP
+- **Programming:** Java, Kotlin, Python, C, JavaScript, PHP, Bash
 - **Web Development:** HTML, CSS, JavaScript, PHP
 - **Mobile Development:** Android (Kotlin/Java), Firebase
 - **Data Structures and Algorithms:** Implementation and complexity analysis
 - **Databases:** MySQL, PostgreSQL, Firebase Firestore, relational design
-- **Operating Systems:** Linux, terminal commands, scripting
-- **Version Control:** Git and GitHub
+- **Operating Systems:** Linux (Arch Linux, Hyprland), terminal commands, shell scripting, system administration
+- **Version Control:** Git and GitHub, private repositories
 - **Containerization:** Docker
 - **Methodologies:** OOP, programming paradigms, design patterns, MVVM architecture
+- **System Configuration:** Dotfiles management, environment automation, modular installation systems
 
 ### Featured Projects
 
@@ -89,6 +90,7 @@ Here are some of the projects I've developed, demonstrating my skills in differe
 
 | Project | Description | Technologies | Link |
 | :--- | :--- | :--- | :--- |
+| **Dotfiles** | Professional and modular configuration system for Arch Linux with Hyprland. Complete environment restoration with a single command. Features 6 preset profiles, automatic hardware detection, dry-run mode, enhanced backup system, SSH/Git management, private repository support, and robust sudo permissions handling | `Bash` `Hyprland` `Waybar` `Arch Linux` `Git` `SSH` | [View Repo](https://github.com/Keneth-Huerta/dotfiles) |
 | **Huellitas** | Comprehensive Android platform that connects pet owners with verified veterinary specialists in Mexico, combining professional services, social interaction, and complete animal care management | `Kotlin` `Java` `Firebase` `Android` `Google Maps` `Room` | [View Repo](https://github.com/Keneth-Huerta/Huellitas) |
 | **Mi Asistente** | Multifunctional Android app that integrates multiple productivity and personal management tools including: academic schedule management with AI-powered PDF processing, workout tracking system, security features (automatic screen lock, emergency alarm), and cloud storage integration | `Kotlin` `Jetpack Compose` `Firebase` `Room` `Gemini AI` `MVVM` | [View Repo](https://github.com/Keneth-Huerta/MiAsistente) |
 | **Gamificación Deportiva** | Sports gamification system designed to motivate and track sports activities through achievements, challenges, and competitions, allowing users to log their physical activities, earn points, level up, and compete with other users | `Java` `MySQL` `Swing` | [View Repo](https://github.com/Keneth-Huerta/GamificacionDeportiva) |
