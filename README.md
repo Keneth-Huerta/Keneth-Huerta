@@ -5,10 +5,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h3>
-    Computer Systems Engineering Student - ESCOM IPN
+    AI Integrator &amp; Backend Architect | FinTech Builder
   </h3>
   <h4>
-    Full Stack Developer | Passionate About Technology and Innovation
+    Computer Systems Engineering @ ESCOM–IPN &nbsp;·&nbsp; Distributed Systems &amp; Microservices
   </h4>
   <div align="center">
     <a href="https://www.linkedin.com/in/keneth-isaac-huerta-moreno-8285552b1/" target="_blank">
@@ -24,22 +24,23 @@
 
 ### About Me
 
-I'm a **Computer Systems Engineering** student at the **Escuela Superior de Cómputo (ESCOM)** of the **Instituto Politécnico Nacional (IPN)**. I'm passionate about software development, both frontend and backend, and I enjoy creating innovative technological solutions that solve real-world problems.
+I'm a **Computer Systems Engineering** student at **ESCOM–IPN** and the founder of **[Cubo Enfocado Solutions](https://www.cubo-enfocado.com.mx)**, a consultancy specializing in FinTech automation and AI-driven workflow orchestration. I build production-grade backend systems and orchestrate distributed architectures to solve real financial and regulatory challenges.
 
-My academic training at ESCOM has allowed me to develop strong skills in programming, data structures, algorithms, databases, and software architecture. I combine theoretical knowledge with constant practice through personal and academic projects.
+My work focuses on **microservices orchestration**, **algorithmic trading infrastructure with native tax compliance (SAT/LISR/UIF)**, and **accelerating the SDLC using LLMs**. I design systems end-to-end — from ADRs and risk-management modules to cloud deployment on GCP and fiscal traceability pipelines.
 
-- **Education:** Computer Systems Engineering - ESCOM IPN
-- **Currently working on:** Web development projects and deepening my knowledge in data structures and algorithms
-- **Learning:** Frontend web development, Java frameworks, and software design patterns
-- **Interests:** Web development, software architecture, artificial intelligence, and distributed systems
-- **Ask me about:** JavaScript, Java, Python, C, PHP, Android development, web development, data structures and algorithms
-- **Languages:** Spanish (Native) | English (Intermediate) | French (Basic)
+- **Education:** Computer Systems Engineering — ESCOM IPN (2025–2029)
+- **Currently building:** Event-driven trading architectures, RAG pipelines on-device, and real-time financial calculators
+- **Specialization:** Python (FastAPI / AsyncIO), microservices, FinTech infrastructure, LLM integration (Gemini / OpenAI)
+- **Interests:** Algorithmic trading, fiscal engineering, AI orchestration, distributed systems reliability
+- **Ask me about:** Python, Docker, TimescaleDB / PostgreSQL, Android (Kotlin), system design, financial compliance
+- **Languages:** Spanish (Native) | English (Intermediate–Advanced, B2)
 
 ---
 
 ### Technology Stack
 
 #### Programming Languages
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,javascript,php&perline=6" />
@@ -47,6 +48,7 @@ My academic training at ESCOM has allowed me to develop strong skills in program
 </p>
 
 #### Web Development
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php&perline=4" />
@@ -54,16 +56,26 @@ My academic training at ESCOM has allowed me to develop strong skills in program
 </p>
 
 #### Mobile Development
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase&perline=4" />
   </a>
 </p>
 
-#### Tools & Technologies
+#### Backend & Infrastructure
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,mysql,postgres,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,mysql,gcp,linux,bash&perline=8" />
+  </a>
+</p>
+
+#### Tools & DevOps
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,grafana&perline=5" />
   </a>
 </p>
 
@@ -71,44 +83,36 @@ My academic training at ESCOM has allowed me to develop strong skills in program
 
 ### Knowledge Areas
 
-As a Computer Systems Engineering student, I have experience and knowledge in:
-
-- **Programming:** Java, Kotlin, Python, C, JavaScript, PHP, Bash
-- **Web Development:** HTML, CSS, JavaScript, PHP
-- **Mobile Development:** Android (Kotlin/Java), Firebase
-- **Data Structures and Algorithms:** Implementation and complexity analysis
-- **Databases:** MySQL, PostgreSQL, Firebase Firestore, relational design
-- **Operating Systems:** Linux (Arch Linux, Hyprland), terminal commands, shell scripting, system administration
-- **Version Control:** Git and GitHub, private repositories
-- **Containerization:** Docker
-- **Methodologies:** OOP, programming paradigms, design patterns, MVVM architecture
-- **System Configuration:** Dotfiles management, environment automation, modular installation systems
+- **Backend & Systems:** Python (FastAPI / AsyncIO), microservices (Docker Compose, 3-tier networks), REST APIs, system design
+- **FinTech & Data:** Algorithmic trading (CCXT / Bybit V5), FIFO fiscal costing (LISR), TimescaleDB, risk management, NSGA-III optimization
+- **AI Integration:** LLM orchestration (Gemini / OpenAI / DeepSeek), RAG pipelines, on-device inference, PDF processing
+- **Mobile:** Android native (Kotlin / Java), Jetpack Compose, MVVM, Firebase, Room Database
+- **Infrastructure:** Docker, GCP (Tokyo region), CI/CD, secrets management, Prometheus monitoring
+- **Linux & Tooling:** Arch Linux (Hyprland), shell scripting, dotfiles management, environment automation
+- **Databases:** PostgreSQL / TimescaleDB, MySQL, Firebase Firestore
+- **Languages:** Java, Kotlin, Python, C, JavaScript, Bash, PHP
 
 ### Featured Projects
 
-Here are some of the projects I've developed, demonstrating my skills in different areas:
+| Project               | Description                                                                                                                                                                                                                                                                                                                                                                    | Technologies                                                                       | Link                                                                           |
+| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
+| **Sistema Centinela** | Production-grade algorithmic trading system: SOA with 7 Docker microservices deployed on GCP (Tokyo). Implements TF-01 Golden Cross strategy with a Risk-First "Kill-Switch", NSGA-III multi-objective optimization, Hidden Markov Model regime detection, and native LISR/FIFO fiscal compliance (SAT/UIF). Validated: +134–313% net return vs −1.29% Buy&Hold (4yr backtest) | `Python` `FastAPI` `Docker` `TimescaleDB` `GCP` `AsyncIO` `CCXT`                   | [View Case Study](https://github.com/Keneth-Huerta/sistema-centinela-showcase) |
+| **Mi Asistente**      | Multifunctional Android app integrating AI-powered tools: academic schedule extraction from PDFs via Gemini/DeepSeek LLMs, workout tracking with exercise library, voice-note transcription & summarization, emergency security features, and Firebase cloud sync. Built with clean MVVM architecture and Hilt dependency injection                                            | `Kotlin` `Jetpack Compose` `Gemini API` `DeepSeek` `Firebase` `Room` `MVVM` `Hilt` | [View Repo](https://github.com/Keneth-Huerta/MiAsistente)                      |
+| **Dotfiles**          | Professional and modular configuration system for Arch Linux with Hyprland. Complete environment restoration with a single command. Features 6 preset profiles, automatic hardware detection, dry-run mode, backup system, SSH/Git management, and robust permissions handling — demonstrating deep OS-level control and infrastructure-as-code discipline                     | `Bash` `Hyprland` `Waybar` `Arch Linux` `Git` `SSH`                                | [View Repo](https://github.com/Keneth-Huerta/dotfiles)                         |
+| **Huellitas**         | Comprehensive Android platform connecting pet owners with verified veterinary specialists in Mexico. Features real-time geolocation via Google Maps SDK, secure Firebase authentication, real-time appointment management, and a social layer for the pet-owner community                                                                                                      | `Kotlin` `Java` `Firebase` `Android` `Google Maps` `Room`                          | [View Repo](https://github.com/Keneth-Huerta/Huellitas)                        |
 
-| Project | Description | Technologies | Link |
-| :--- | :--- | :--- | :--- |
-| **Dotfiles** | Professional and modular configuration system for Arch Linux with Hyprland. Complete environment restoration with a single command. Features 6 preset profiles, automatic hardware detection, dry-run mode, enhanced backup system, SSH/Git management, private repository support, and robust sudo permissions handling | `Bash` `Hyprland` `Waybar` `Arch Linux` `Git` `SSH` | [View Repo](https://github.com/Keneth-Huerta/dotfiles) |
-| **Huellitas** | Comprehensive Android platform that connects pet owners with verified veterinary specialists in Mexico, combining professional services, social interaction, and complete animal care management | `Kotlin` `Java` `Firebase` `Android` `Google Maps` `Room` | [View Repo](https://github.com/Keneth-Huerta/Huellitas) |
-| **Mi Asistente** | Multifunctional Android app that integrates multiple productivity and personal management tools including: academic schedule management with AI-powered PDF processing, workout tracking system, security features (automatic screen lock, emergency alarm), and cloud storage integration | `Kotlin` `Jetpack Compose` `Firebase` `Room` `Gemini AI` `MVVM` | [View Repo](https://github.com/Keneth-Huerta/MiAsistente) |
-| **Gamificación Deportiva** | Sports gamification system designed to motivate and track sports activities through achievements, challenges, and competitions, allowing users to log their physical activities, earn points, level up, and compete with other users | `Java` `MySQL` `Swing` | [View Repo](https://github.com/Keneth-Huerta/GamificacionDeportiva) |
-
-> **Note:** I'm constantly working on new projects related to my studies at ESCOM and my professional development.
+> **Note:** Sistema Centinela is a proprietary system. The linked repository is a public architectural case study — source code is maintained in a private repository.
 
 ---
 
-### Goals and Continuous Learning
+### Currently Working On & Goals
 
-As an engineering student, I'm constantly learning and growing:
-
-- Deepening my knowledge of advanced **Data Structures and Algorithms**
-- Developing projects with **Spring Boot**
-- Exploring **microservices** and **distributed systems** architectures
-- Introduction to **Machine Learning** and **Data Science**
-- Applying **design patterns** in real projects
-- Improving my frontend web development skills
+- Building **event-driven microservice architectures** with async Python and message queues
+- Optimizing **latency in algorithmic trading** systems (order repricing, HMM regime detection)
+- Implementing **RAG (Retrieval-Augmented Generation) on-device** for private AI assistants
+- Expanding **multi-asset portfolio optimization** with NSGA-III and Walk-Forward Optimization
+- Deepening knowledge in **quantitative finance**: CPCV, Monte Carlo, factor models
+- Advancing **system reliability engineering**: observability, distributed tracing, chaos testing
 
 ---
 
@@ -122,10 +126,12 @@ As an engineering student, I'm constantly learning and growing:
 <br>
 
 #### Escuela Superior de Cómputo (ESCOM) - Instituto Politécnico Nacional (IPN)
+
 ESCOM IPN, Unidad Profesional Adolfo López Mateos, Av. Juan de Dios Bátiz, Nueva Industrial Vallejo, Gustavo A. Madero, 07320 Ciudad de México, CDMX  
 **Computer Systems Engineering**
 
 My training at ESCOM provides me with a solid foundation in:
+
 - Advanced programming and programming paradigms
 - Algorithm design and analysis
 - Software engineering and systems architecture
@@ -134,10 +140,12 @@ My training at ESCOM provides me with a solid foundation in:
 - Applied mathematics and numerical analysis
 
 #### Centro de Estudios Científicos y Tecnológicos No. 3 (CECyT 3) - IPN
+
 Manzana 027, 55118 Ecatepec de Morelos, México  
 **Technical Degree in Computer Science**
 
 Technical foundation that provided me with essential skills in:
+
 - Computer fundamentals and programming
 - Systems analysis and design
 - Database management
