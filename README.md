@@ -11,7 +11,7 @@
     Computer Systems Engineering @ ESCOM–IPN &nbsp;·&nbsp; Distributed Systems &amp; Microservices
   </h4>
   <div align="center">
-    <a href="https://www.linkedin.com/in/keneth-isaac-huerta-moreno-8285552b1/" target="_blank">
+    <a href="https://www.linkedin.com/in/keneth-issac-huerta-galindo-313804323/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:kenethissac@gmail.com">
@@ -24,7 +24,7 @@
 
 ### About Me
 
-I'm a **Computer Systems Engineering** student at **ESCOM–IPN** and the founder of **[Cubo Enfocado Solutions](https://www.cubo-enfocado.com.mx)**, a consultancy specializing in FinTech automation and AI-driven workflow orchestration. I build production-grade backend systems and orchestrate distributed architectures to solve real financial and regulatory challenges.
+I am the founder of **[Cubo Enfocado Solutions](https://www.cubo-enfocado.com.mx)**, a consultancy specializing in FinTech automation and AI-driven workflow orchestration. I build production-grade backend systems and orchestrate distributed architectures to solve real financial and regulatory challenges.
 
 My work focuses on **microservices orchestration**, **algorithmic trading infrastructure with native tax compliance (SAT/LISR/UIF)**, and **accelerating the SDLC using LLMs**. I design systems end-to-end — from ADRs and risk-management modules to cloud deployment on GCP and fiscal traceability pipelines.
 
@@ -182,7 +182,7 @@ Interested in collaborating on a project or just want to connect? Feel free to r
   
   <br><br>
   
-  **Made with passion for technology | ESCOM-IPN Student**
+  **Made with passion for technology | AI Integrator & Backend Architect**
   
   <sub>If you like my projects, don't forget to give them a star</sub>
   
