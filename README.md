@@ -24,7 +24,11 @@
 
 ### About Me
 
-I am the founder of **[Cubo Enfocado Solutions](https://www.cubo-enfocado.com.mx)**, a consultancy specializing in FinTech automation and AI-driven workflow orchestration. I build production-grade backend systems and orchestrate distributed architectures to solve real financial and regulatory challenges.
+Arquitecto de Soluciones de Software especializado en ecosistemas **Fintech e Inteligencia Artificial**. Diseño ecosistemas cloud distribuidos y sistemas de trading algorítmico, acelerando el ciclo de desarrollo mediante agentes autónomos y arquitecturas orientadas a latencia crítica.
+
+---
+
+I am the founder of **[Cubo Enfocado Solutions](https://www.cubo-enfocado.com.mx)**, an R&D lab specializing in FinTech infrastructure and AI-driven workflow automation. I build production-grade backend systems and orchestrate distributed architectures to solve real financial and regulatory challenges.
 
 My work focuses on **microservices orchestration**, **algorithmic trading infrastructure with native tax compliance (SAT/LISR/UIF)**, and **accelerating the SDLC using LLMs**. I design systems end-to-end — from ADRs and risk-management modules to cloud deployment on GCP and fiscal traceability pipelines.
 
@@ -92,14 +96,14 @@ My work focuses on **microservices orchestration**, **algorithmic trading infras
 - **Databases:** PostgreSQL / TimescaleDB, MySQL, Firebase Firestore
 - **Languages:** Java, Kotlin, Python, C, JavaScript, Bash, PHP
 
-### Featured Projects
+### I+D Portfolio
 
-| Project               | Description                                                                                                                                                                                                                                                                                                                                                                    | Technologies                                                                       | Link                                                                           |
-| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
+| Project               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Technologies                                                                           | Link                                                                           |
+| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
 | **Sistema Centinela** | Production-grade algorithmic **Trend Following** system (EMA 21/150 on 4H candles): distributed SOA with 7 Docker microservices across two cloud nodes — Oracle Cloud Ashburn (4-core ARM, 24 GB) for intensive compute (NSGA-III, backtesting, HMM/GRU training) and GCP Tokyo (<10 ms to Bybit) for live order execution. Includes Risk-First "Kill-Switch", Netbird VPN inter-node overlay, native LISR/FIFO/UIF fiscal compliance, and TimescaleDB multi-node replication. Validated: +134–313% net return vs −1.29% Buy&Hold (4yr backtest) | `Python` `FastAPI` `Docker` `TimescaleDB` `Oracle Cloud` `GCP` `AsyncIO` `CCXT` `IBKR` | [View Case Study](https://github.com/Keneth-Huerta/sistema-centinela-showcase) |
-| **Mi Asistente**      | Multifunctional Android app integrating AI-powered tools: academic schedule extraction from PDFs via Gemini/DeepSeek LLMs, workout tracking with exercise library, voice-note transcription & summarization, emergency security features, and Firebase cloud sync. Built with clean MVVM architecture and Hilt dependency injection                                            | `Kotlin` `Jetpack Compose` `Gemini API` `DeepSeek` `Firebase` `Room` `MVVM` `Hilt` | [View Repo](https://github.com/Keneth-Huerta/MiAsistente)                      |
-| **Dotfiles**          | Professional and modular configuration system for Arch Linux with Hyprland. Complete environment restoration with a single command. Features 6 preset profiles, automatic hardware detection, dry-run mode, backup system, SSH/Git management, and robust permissions handling — demonstrating deep OS-level control and infrastructure-as-code discipline                     | `Bash` `Hyprland` `Waybar` `Arch Linux` `Git` `SSH`                                | [View Repo](https://github.com/Keneth-Huerta/dotfiles)                         |
-| **Huellitas**         | Comprehensive Android platform connecting pet owners with verified veterinary specialists in Mexico. Features real-time geolocation via Google Maps SDK, secure Firebase authentication, real-time appointment management, and a social layer for the pet-owner community                                                                                                      | `Kotlin` `Java` `Firebase` `Android` `Google Maps` `Room`                          | [View Repo](https://github.com/Keneth-Huerta/Huellitas)                        |
+| **Mi Asistente**      | Multifunctional Android app integrating AI-powered tools: academic schedule extraction from PDFs via Gemini/DeepSeek LLMs, workout tracking with exercise library, voice-note transcription & summarization, emergency security features, and Firebase cloud sync. Built with clean MVVM architecture and Hilt dependency injection                                                                                                                                                                                                              | `Kotlin` `Jetpack Compose` `Gemini API` `DeepSeek` `Firebase` `Room` `MVVM` `Hilt`     | [View Repo](https://github.com/Keneth-Huerta/MiAsistente)                      |
+| **Dotfiles**          | Professional and modular configuration system for Arch Linux with Hyprland. Complete environment restoration with a single command. Features 6 preset profiles, automatic hardware detection, dry-run mode, backup system, SSH/Git management, and robust permissions handling — demonstrating deep OS-level control and infrastructure-as-code discipline                                                                                                                                                                                       | `Bash` `Hyprland` `Waybar` `Arch Linux` `Git` `SSH`                                    | [View Repo](https://github.com/Keneth-Huerta/dotfiles)                         |
+| **Huellitas**         | Comprehensive Android platform connecting pet owners with verified veterinary specialists in Mexico. Features real-time geolocation via Google Maps SDK, secure Firebase authentication, real-time appointment management, and a social layer for the pet-owner community                                                                                                                                                                                                                                                                        | `Kotlin` `Java` `Firebase` `Android` `Google Maps` `Room`                              | [View Repo](https://github.com/Keneth-Huerta/Huellitas)                        |
 
 > **Note:** Sistema Centinela is a proprietary system. The linked repository is a public architectural case study — source code is maintained in a private repository.
 
@@ -127,7 +131,7 @@ My work focuses on **microservices orchestration**, **algorithmic trading infras
 
 #### Escuela Superior de Cómputo (ESCOM) - Instituto Politécnico Nacional (IPN)
 
-ESCOM IPN, Unidad Profesional Adolfo López Mateos, Av. Juan de Dios Bátiz, Nueva Industrial Vallejo, Gustavo A. Madero, 07320 Ciudad de México, CDMX  
+ESCOM IPN, Unidad Profesional Adolfo López Mateos, Av. Juan de Dios Bátiz, Nueva Industrial Vallejo, Gustavo A. Madero, 07320 Ciudad de México, CDMX
 **Computer Systems Engineering**
 
 My training at ESCOM provides me with a solid foundation in:
@@ -138,6 +142,7 @@ My training at ESCOM provides me with a solid foundation in:
 - Databases and information systems
 - Computer networks and operating systems
 - Applied mathematics and numerical analysis
+- **Club de Algoritmia** — Active member. Focus on competitive algorithm design, data structures, and mathematical problem-solving applied to real-world systems (trading engines, optimization, graph algorithms).
 
 #### Centro de Estudios Científicos y Tecnológicos No. 3 (CECyT 3) - IPN
 
@@ -169,7 +174,7 @@ Interested in collaborating on a project or just want to connect? Feel free to r
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keneth%20Huerta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-issac-huerta-galindo-313804323)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keneth%20Huerta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-issac-huerta-galindo-313804323/)
 [![Email](https://img.shields.io/badge/Email-kenethissac@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenethissac@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Keneth--Huerta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keneth-Huerta)
 
