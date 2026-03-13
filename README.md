@@ -24,9 +24,7 @@
 
 ### About Me
 
-Arquitecto de Soluciones de Software especializado en ecosistemas **Fintech e Inteligencia Artificial**. Diseño ecosistemas cloud distribuidos y sistemas de trading algorítmico, acelerando el ciclo de desarrollo mediante agentes autónomos y arquitecturas orientadas a latencia crítica.
-
----
+Software Solutions Architect specialized in **FinTech and Artificial Intelligence** ecosystems. I design distributed cloud architectures and algorithmic trading systems, accelerating development cycles through autonomous agents and latency-critical infrastructure.
 
 I am the founder of **[Cubo Enfocado Solutions](https://www.cubo-enfocado.com.mx)**, an R&D lab specializing in FinTech infrastructure and AI-driven workflow automation. I build production-grade backend systems and orchestrate distributed architectures to solve real financial and regulatory challenges.
 
