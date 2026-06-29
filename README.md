@@ -26,7 +26,7 @@
 
 Software Solutions Architect specialized in **FinTech and Artificial Intelligence** ecosystems. I design distributed cloud architectures and algorithmic trading systems, accelerating development cycles through autonomous agents and latency-critical infrastructure.
 
-I am the founder of **[Cubo Enfocado Solutions](https://www.cubo-enfocado.com.mx)**, an R&D lab specializing in FinTech infrastructure and AI-driven workflow automation. I build production-grade backend systems and orchestrate distributed architectures to solve real financial and regulatory challenges.
+I am the founder of **[Cubo Enfocado Solutions](https://www.cubo-enfocado.com)**, an R&D lab specializing in FinTech infrastructure and AI-driven workflow automation. I build production-grade backend systems and orchestrate distributed architectures to solve real financial and regulatory challenges.
 
 My work focuses on **microservices orchestration**, **algorithmic trading infrastructure with native tax compliance (SAT/LISR/UIF)**, **MEV and on-chain data analysis in Rust**, and **accelerating the SDLC using LLMs**. I design systems end-to-end — from ADRs and risk-management modules to cloud deployment on GCP and fiscal traceability pipelines.
 
@@ -162,8 +162,8 @@ Technical foundation that provided me with essential skills in:
 ### GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Keneth-Huerta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keneth-Huerta&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Keneth-Huerta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keneth-Huerta&layout=compact&langs_count=8&theme=tokyonight&v=2"/>
 </p>
 
 ---
