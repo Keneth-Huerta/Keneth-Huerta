@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h3>
-    AI Integrator &amp; Backend Architect | FinTech Builder
+    AI Integrator, Backend Architect & Web3 Researcher | FinTech & MEV Infrastructure
   </h3>
   <h4>
     Computer Systems Engineering @ ESCOM–IPN &nbsp;·&nbsp; Distributed Systems &amp; Microservices
@@ -28,13 +28,13 @@ Software Solutions Architect specialized in **FinTech and Artificial Intelligenc
 
 I am the founder of **[Cubo Enfocado Solutions](https://www.cubo-enfocado.com.mx)**, an R&D lab specializing in FinTech infrastructure and AI-driven workflow automation. I build production-grade backend systems and orchestrate distributed architectures to solve real financial and regulatory challenges.
 
-My work focuses on **microservices orchestration**, **algorithmic trading infrastructure with native tax compliance (SAT/LISR/UIF)**, and **accelerating the SDLC using LLMs**. I design systems end-to-end — from ADRs and risk-management modules to cloud deployment on GCP and fiscal traceability pipelines.
+My work focuses on **microservices orchestration**, **algorithmic trading infrastructure with native tax compliance (SAT/LISR/UIF)**, **MEV and on-chain data analysis in Rust**, and **accelerating the SDLC using LLMs**. I design systems end-to-end — from ADRs and risk-management modules to cloud deployment on GCP and fiscal traceability pipelines.
 
 - **Education:** Computer Systems Engineering — ESCOM IPN (2025–2029)
-- **Currently building:** Event-driven trading architectures, RAG pipelines on-device, and real-time financial calculators
-- **Specialization:** Python (FastAPI / AsyncIO), microservices, FinTech infrastructure, LLM integration (Gemini / OpenAI)
+- **Currently building:** Event-driven trading architectures, RAG pipelines on-device, MEV analysis tooling in Rust, and real-time financial calculators
+- **Specialization:** Python (FastAPI / AsyncIO), Rust, microservices, FinTech infrastructure, LLM integration (Gemini / OpenAI)
 - **Interests:** Algorithmic trading, fiscal engineering, AI orchestration, distributed systems reliability
-- **Ask me about:** Python, Docker, TimescaleDB / PostgreSQL, Android (Kotlin), system design, financial compliance
+- **Ask me about:** Python, Rust, Docker, TimescaleDB / PostgreSQL, Android (Kotlin), system design, financial compliance
 - **Languages:** Spanish (Native) | English (Intermediate–Advanced, B2)
 
 ---
@@ -45,7 +45,7 @@ My work focuses on **microservices orchestration**, **algorithmic trading infras
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,javascript,php&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,javascript,php,rust&perline=7" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@ My work focuses on **microservices orchestration**, **algorithmic trading infras
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,mysql,gcp,linux,bash&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,mysql,gcp,linux,bash,rust&perline=9" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@ My work focuses on **microservices orchestration**, **algorithmic trading infras
 - **Infrastructure:** Docker, GCP (Tokyo region), CI/CD, secrets management, Prometheus monitoring
 - **Linux & Tooling:** Arch Linux (Hyprland), shell scripting, dotfiles management, environment automation
 - **Databases:** PostgreSQL / TimescaleDB, MySQL, Firebase Firestore
-- **Languages:** Java, Kotlin, Python, C, JavaScript, Bash, PHP
+- **Languages:** Java, Kotlin, Python, C, JavaScript, Bash, PHP, Rust
 
 ### I+D Portfolio
 
@@ -102,6 +102,7 @@ My work focuses on **microservices orchestration**, **algorithmic trading infras
 | **Mi Asistente**      | Multifunctional Android app integrating AI-powered tools: academic schedule extraction from PDFs via Gemini/DeepSeek LLMs, workout tracking with exercise library, voice-note transcription & summarization, emergency security features, and Firebase cloud sync. Built with clean MVVM architecture and Hilt dependency injection                                                                                                                                                                                                              | `Kotlin` `Jetpack Compose` `Gemini API` `DeepSeek` `Firebase` `Room` `MVVM` `Hilt`     | [View Repo](https://github.com/Keneth-Huerta/MiAsistente)                      |
 | **Dotfiles**          | Professional and modular configuration system for Arch Linux with Hyprland. Complete environment restoration with a single command. Features 6 preset profiles, automatic hardware detection, dry-run mode, backup system, SSH/Git management, and robust permissions handling — demonstrating deep OS-level control and infrastructure-as-code discipline                                                                                                                                                                                       | `Bash` `Hyprland` `Waybar` `Arch Linux` `Git` `SSH`                                    | [View Repo](https://github.com/Keneth-Huerta/dotfiles)                         |
 | **Huellitas**         | Comprehensive Android platform connecting pet owners with verified veterinary specialists in Mexico. Features real-time geolocation via Google Maps SDK, secure Firebase authentication, real-time appointment management, and a social layer for the pet-owner community                                                                                                                                                                                                                                                                        | `Kotlin` `Java` `Firebase` `Android` `Google Maps` `Room`                              | [View Repo](https://github.com/Keneth-Huerta/Huellitas)                        |
+| **Flashbots Revert Classifier** | High-performance Rust CLI that classifies MEV transaction reverts into Blind Spam vs HF Contention using collision heuristics. Processes 32k Dune Analytics traces in <110ms. Built as a direct Proof of Work for the Flashbots research forum: ingested their query, wrote the parser, published results. No interview required.                                                                                                                                                                                                                | `Rust` `CSV` `Serde` `Clap` `Dune Analytics` `MEV`                                     | [View Repo](https://github.com/Keneth-Huerta/flashbots-revert-classifier)      |
 
 > **Note:** Sistema Centinela is a proprietary system. The linked repository is a public architectural case study — source code is maintained in a private repository.
 
@@ -114,6 +115,7 @@ My work focuses on **microservices orchestration**, **algorithmic trading infras
 - Implementing **RAG (Retrieval-Augmented Generation) on-device** for private AI assistants
 - Expanding **multi-asset portfolio optimization** with NSGA-III and Walk-Forward Optimization
 - Deepening knowledge in **quantitative finance**: CPCV, Monte Carlo, factor models
+- Exploring **MEV and blockchain infrastructure**: on-chain data analysis, bot classification heuristics, Rust tooling for Web3 research
 - Advancing **system reliability engineering**: observability, distributed tracing, chaos testing
 
 ---
