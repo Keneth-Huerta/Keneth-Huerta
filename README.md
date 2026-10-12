@@ -123,7 +123,7 @@ My work focuses on **microservices orchestration**, **algorithmic trading infras
 ### Academic Background
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ESCOM-IPN-8B1538?style=for-the-badge&logo=google-scholar&logoColor=white" alt="ESCOM-IPN"/>
+  <img src="https://img.shields.io/badge/ESCOM-IPN-8B1538?style=for-the-badge&logo=googlescholar&logoColor=white" alt="ESCOM-IPN"/>
   <img src="https://img.shields.io/badge/Engineering-Computer%20Systems-1E90FF?style=for-the-badge&logo=academia&logoColor=white" alt="Degree"/>
 </div>
 
@@ -162,8 +162,8 @@ Technical foundation that provided me with essential skills in:
 ### GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Keneth-Huerta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keneth-Huerta&layout=compact&langs_count=8&theme=tokyonight&v=2"/>
+  <img height="170em" src="./profile/stats.svg" alt="Keneth Huerta's GitHub Stats"/>
+  <img height="170em" src="./profile/top-langs.svg" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -183,7 +183,7 @@ Interested in collaborating on a project or just want to connect? Feel free to r
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Keneth-Huerta&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Keneth-Huerta.Keneth-Huerta&left_color=blueviolet&right_color=black" alt="Profile views"/>
   
   <br><br>
   
