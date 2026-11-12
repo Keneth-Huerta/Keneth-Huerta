@@ -3,6 +3,7 @@
 Computer Systems Engineering student at ESCOM–IPN (Mexico City). I work on quantitative analysis: turning noisy data (official surveys, blockchain transactions, physics simulations) into estimates with confidence intervals, checked out of sample, with open code and data.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-huerta/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9084-2937)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenethissac@gmail.com)
 
 ## Recent work
