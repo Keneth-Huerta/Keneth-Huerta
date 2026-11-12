@@ -16,6 +16,19 @@ Preregistered observational study of why arbitrage bots' transactions fail on Ba
 
 Representative of IPN at the 3rd edition. Analysis of ENDUTIH microdata with survey weights and design-based standard errors, plus a measurement error I found in one of the survey questions.
 
+**SustainaFlow AI** · FastAPI, GCP, TimescaleDB, Docker
+
+Finalist at the Capital One challenge (Talent Land 2026), team of 3, built in 3 days. I wrote the backend of a data pipeline that turns CFDI invoices into emissions estimates for small businesses: Facturapi webhook with idempotency, Pub/Sub queue, Cloud Run deployment, and Gemini classification validated with Pydantic, with a deterministic fallback when the model fails.
+
+**MagRecon-AI: electromagnetic inverse design** · Python, Numba, scikit-learn
+
+Simulation pipeline (~100k configurations per case), surrogate models (ExtraTrees, DNN) and Bayesian optimization re-checked on the physics solver. On the TEAM 35 benchmark the surrogates reach R² = 0.96 on a random split but 0.65 on an out-of-distribution geometric split; I documented that generalization limit.
+
+## Education
+
+- **Escuela Superior de Cómputo (ESCOM), IPN** · B.Sc. Computer Systems Engineering, 2025–2029 (3rd semester), GPA 9.0/10
+- **CECyT 3 "Estanislao Ramírez Ruiz", IPN** · Computer Technician, 2022–2025, GPA 8.7/10
+
 ## Talks and recognition
 
 - Speaker, Mexico Tech Week 2026 (Main Stage): dissecting failed transactions on Base L2 with Rust.
@@ -24,7 +37,16 @@ Representative of IPN at the 3rd edition. Analysis of ENDUTIH microdata with sur
 
 ## Tools
 
-Python (pandas, NumPy, statsmodels, scikit-learn) · SQL · Rust · C/C++ · Docker · Linux · LaTeX
+- **Languages:** Python, Rust, C/C++, Java, Kotlin, JavaScript/TypeScript, SQL
+- **Data:** pandas, NumPy, statsmodels, scikit-learn, TensorFlow; complex survey designs, bootstrap, preregistration
+- **Data engineering and cloud:** FastAPI, PostgreSQL/TimescaleDB, Redis, Docker, GCP (Cloud Run, Pub/Sub), CI/CD, Linux
+- **Other:** CUDA/Numba, Next.js, Android (Kotlin/Java), Git, LaTeX
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,java,kotlin,ts,postgres,docker,gcp,linux,git,latex&perline=12" alt="Tech stack"/>
+</p>
+
+**Spoken languages:** Spanish (native), English (B2)
 
 <p align="center">
   <img height="170em" src="./profile/stats.svg" alt="GitHub stats"/>
