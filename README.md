@@ -44,7 +44,7 @@ Simulation pipeline (~100k configurations per case), surrogate models (ExtraTree
 ## Recognition
 
 - Finalist, Capital One challenge, Talent Land Hackathon 2026.
-- BEIFI research scholar (IPN), 2024.
+- BEIFI research scholar (IPN): CECyT 3, two semesters in 2024; ESCOM, one semester in 2026.
 
 ## Tools
 
