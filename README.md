@@ -14,7 +14,7 @@ Preregistered observational study of why arbitrage bots' transactions fail on Ba
 
 **INEGI–ANTAD Datathon 2026** · Python, statsmodels
 
-Representative of IPN at the 3rd edition. Analysis of ENDUTIH microdata with survey weights and design-based standard errors, plus a measurement error I found in one of the survey questions.
+Representative of IPN at the 3rd edition (ESCOM–ESCA team, one of 10 universities). Analysis of ENDUTIH 2025 microdata with survey weights and design-based standard errors; the estimates reproduce INEGI's official figures and put the number of connected adults who do not shop online at 45.9 million. I found a measurement error: the survey's digital-transactions question also counts paying for the purchase itself. Correcting it cut the association from +25 to +11.6 percentage points; the preregistered hypotheses held in the 2024 edition.
 
 **SustainaFlow AI** · FastAPI, GCP, TimescaleDB, Docker
 
