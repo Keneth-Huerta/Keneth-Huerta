@@ -9,9 +9,11 @@ Computer Systems Engineering student at ESCOM–IPN (Mexico City). I work on qua
 ## Recent work
 
 **[Failed arbitrage attempts on Base](https://github.com/Keneth-Huerta/flashbots-revert-classifier)** · Rust, Python · [preprint](https://doi.org/10.5281/zenodo.23610470)
+
 Preregistered observational study of why arbitrage bots' transactions fail on Base and other OP-stack chains. In weeks not used to form the hypotheses, the revert rate is 13.6 points higher (95% CI 11.4 to 15.8) when another entity already swapped earlier in the block on the same pools. The study makes no causal claim. Code and data are open, with DOIs.
 
 **INEGI–ANTAD Datathon 2026** · Python, statsmodels
+
 Representative of IPN at the 3rd edition. Analysis of ENDUTIH microdata with survey weights and design-based standard errors, plus a measurement error I found in one of the survey questions.
 
 ## Talks and recognition
