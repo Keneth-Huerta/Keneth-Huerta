@@ -2,7 +2,7 @@
 
 **Mexico City · Data analysis & statistics · ESCOM–IPN**
 
-Computer Systems Engineering student at ESCOM–IPN (Mexico City). I work on quantitative analysis: turning noisy data (official surveys, blockchain transactions, physics simulations) into estimates with confidence intervals, checked out of sample, with open code and data.
+Computer Systems Engineering student, 3rd semester. I work on quantitative analysis: turning noisy data (official surveys, blockchain transactions, physics simulations) into estimates with confidence intervals, checked out of sample, with open code and data.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-huerta/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9084-2937)
@@ -38,7 +38,7 @@ Simulation pipeline (~100k configurations per case), surrogate models (ExtraTree
 ## Publications and talks
 
 - **Failed Arbitrage Attempts on Base: Bot Competition or Isolated Search?** Preprint, Zenodo, 2026. [doi:10.5281/zenodo.23610470](https://doi.org/10.5281/zenodo.23610470)
-- **Dataset and code** for the study above. Zenodo, 2026. [doi:10.5281/zenodo.23549452](https://doi.org/10.5281/zenodo.23549452)
+- **Dataset** for the study above. Zenodo, 2026. [doi:10.5281/zenodo.23549452](https://doi.org/10.5281/zenodo.23549452)
 - **¿Basura o guerra de bots? Disección de transacciones fallidas en Base L2 con Rust.** Talk, Mexico Tech Week 2026, Main Stage, Mexico City.
 
 ## Recognition
