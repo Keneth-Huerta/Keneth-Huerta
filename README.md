@@ -18,7 +18,7 @@ Representative of IPN at the 3rd edition. Analysis of ENDUTIH microdata with sur
 
 **SustainaFlow AI** · FastAPI, GCP, TimescaleDB, Docker
 
-Finalist at the Capital One challenge (Talent Land 2026), team of 3, built in 3 days. I wrote the backend of a data pipeline that turns CFDI invoices into emissions estimates for small businesses: Facturapi webhook with idempotency, Pub/Sub queue, Cloud Run deployment, and Gemini classification validated with Pydantic, with a deterministic fallback when the model fails.
+Built in 3 days by a team of 4 at Talent Land 2026. I wrote the backend of a data pipeline that turns CFDI invoices into emissions estimates for small businesses: Facturapi webhook with idempotency, Pub/Sub queue, Cloud Run deployment, and Gemini classification validated with Pydantic, with a deterministic fallback when the model fails.
 
 **MagRecon-AI: electromagnetic inverse design** · Python, Numba, scikit-learn
 
