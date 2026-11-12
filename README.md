@@ -1,5 +1,7 @@
 # Keneth Huerta
 
+**Mexico City · Data analysis & statistics · ESCOM–IPN**
+
 Computer Systems Engineering student at ESCOM–IPN (Mexico City). I work on quantitative analysis: turning noisy data (official surveys, blockchain transactions, physics simulations) into estimates with confidence intervals, checked out of sample, with open code and data.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-huerta/)
@@ -11,6 +13,10 @@ Computer Systems Engineering student at ESCOM–IPN (Mexico City). I work on qua
 **[Failed arbitrage attempts on Base](https://github.com/Keneth-Huerta/flashbots-revert-classifier)** · Rust, Python · [preprint](https://doi.org/10.5281/zenodo.23610470)
 
 Preregistered observational study of why arbitrage bots' transactions fail on Base and other OP-stack chains. In weeks not used to form the hypotheses, the revert rate is 13.6 points higher (95% CI 11.4 to 15.8) when another entity already swapped earlier in the block on the same pools. The study makes no causal claim. Code and data are open, with DOIs.
+
+<p align="center">
+  <img src="./profile/base-forest.svg" width="720" alt="Forest plot: revert rate is 13.6 points higher (95% CI 11.4 to 15.8) after another entity swapped earlier on the same pools; +0.1 for swaps on other pools; +1.1 for later swaps"/>
+</p>
 
 **INEGI–ANTAD Datathon 2026** · Python, statsmodels
 
@@ -29,9 +35,14 @@ Simulation pipeline (~100k configurations per case), surrogate models (ExtraTree
 - **Escuela Superior de Cómputo (ESCOM), IPN** · B.Sc. Computer Systems Engineering, 2025–2029 (3rd semester), GPA 9.0/10
 - **CECyT 3 "Estanislao Ramírez Ruiz", IPN** · Computer Technician, 2022–2025, GPA 8.7/10
 
-## Talks and recognition
+## Publications and talks
 
-- Speaker, Mexico Tech Week 2026 (Main Stage): dissecting failed transactions on Base L2 with Rust.
+- **Failed Arbitrage Attempts on Base: Bot Competition or Isolated Search?** Preprint, Zenodo, 2026. [doi:10.5281/zenodo.23610470](https://doi.org/10.5281/zenodo.23610470)
+- **Dataset and code** for the study above. Zenodo, 2026. [doi:10.5281/zenodo.23549452](https://doi.org/10.5281/zenodo.23549452)
+- **¿Basura o guerra de bots? Disección de transacciones fallidas en Base L2 con Rust.** Talk, Mexico Tech Week 2026, Main Stage, Mexico City.
+
+## Recognition
+
 - Finalist, Capital One challenge, Talent Land Hackathon 2026.
 - BEIFI research scholar (IPN), 2024.
 
