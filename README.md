@@ -26,9 +26,9 @@ Representative of IPN at the 3rd edition (ESCOM–ESCA team, one of 10 universit
 
 Built in 3 days by a team of 4 at Talent Land 2026. I wrote the backend of a data pipeline that turns CFDI invoices into emissions estimates for small businesses: Facturapi webhook with idempotency, Pub/Sub queue, Cloud Run deployment, and Gemini classification validated with Pydantic, with a deterministic fallback when the model fails.
 
-**MagRecon-AI: electromagnetic inverse design** · Python, Numba, scikit-learn
+**MagRecon-AI: electromagnetic inverse design** · Python, scikit-learn
 
-Simulation pipeline (~100k configurations per case), surrogate models (ExtraTrees, DNN) and Bayesian optimization re-checked on the physics solver. On the TEAM 35 benchmark the surrogates reach R² = 0.96 on a random split but 0.65 on an out-of-distribution geometric split; I documented that generalization limit.
+Preregistered benchmark on TEAM 35 comparing ML-surrogate optimization with direct CMA-ES, rerun from scratch with bit-identical results. A trust-region surrogate I designed cut the one-shot surrogate's median field error about 9x (1.3e-5 T vs 1.1e-4 T at 20,000 solver calls) and tied CMA-ES at 1,000 calls; CMA-ES stayed better at larger budgets.
 
 ## Education
 
@@ -60,6 +60,5 @@ Simulation pipeline (~100k configurations per case), surrogate models (ExtraTree
 **Spoken languages:** Spanish (native), English (B2)
 
 <p align="center">
-  <img height="170em" src="./profile/stats.svg" alt="GitHub stats"/>
   <img height="170em" src="./profile/top-langs.svg" alt="Most used languages"/>
 </p>
